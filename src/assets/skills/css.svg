@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <style>
+    .circle {
+      fill: #4caf50;
+      transition: fill 0.3s ease;
+    }
+
+    .circle:hover {
+      fill: #f44336;
+    }
+
+    .text {
+      font-size: 32px;
+      font-family: 'Arial', sans-serif;
+      fill: white;
+      text-anchor: middle;
+      dominant-baseline: middle;
+    }
+  </style>
+  
+  <circle cx="100" cy="100" r="80" class="circle"/>
+  <text x="100" y="100" class="text">CSS</text>
+</svg>
