@@ -5,7 +5,7 @@ export const projectArray = [
     
     {
         name: "cavilOn",
-        description: "CAVILON, a content generation bot, simplifies and elevates your creative process developed in NEXTJS 14 and TYPESCRIPT. Whether crafting engaging blog posts, soulful song lyrics, or attention-grabbing Insta captions, Quibble's advanced algorithms seamlessly transform your ideas into polished, professional content.",
+        description: "CAVILON, a content generation bot, simplifies and elevates your creative process developed in NEXTJS 14 and TYPESCRIPT. Whether crafting engaging blog posts, soulful song lyrics, or attention-grabbing Insta captions, cavilOn's advanced algorithms seamlessly transform your ideas into polished, professional content.",
         image: quibbleimg,
         type: "open source",
         hostedLink: "",
